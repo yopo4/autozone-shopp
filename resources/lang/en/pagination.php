@@ -13,7 +13,18 @@ return [
     |
     */
 
-    'previous' => '&laquo; Previous',
-    'next' => 'Next &raquo;',
+    'previous' => '&laquo; Précédent',
+    'next' => 'Suivant &raquo;',
+    // 'previousPage' => 'Previous Page',
+    // 'nextPage' => 'Next Page',
+    // 'gotoPage' => 'Go to Page :page',
+    // 'page' => 'Page :page',
+    // 'pageOf' => 'Page :page of :pages',
+    // 'total' => 'Total :total',
+    // 'perPage' => 'Per Page',
+    'showing' => 'Affichage de :from à :to pour :total resultats',
+    // 'to' => 'to',
+    // 'results' => 'results',
+
 
 ];
