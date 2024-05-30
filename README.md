@@ -1,24 +1,3 @@
-  [![github-follow](https://img.shields.io/github/followers/Prajwal100?label=Follow&logoColor=purple&style=social)](https://github.com/Prajwal100)
-  [![GitHub stars](https://img.shields.io/github/stars/Prajwal100/Complete-Ecommerce-in-laravel-10.svg?style=social)](https://github.com/Prajwal100/Complete-Ecommerce-in-laravel-10/stargazers)
-  [![GitHub forks](https://img.shields.io/github/forks/Prajwal100/Complete-Ecommerce-in-laravel-10.svg)](https://github.comPrajwal100/Complete-Ecommerce-in-laravel-10/network)
-  [![license](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://choosealicense.com/licenses/mit/)
-  
-## Are you looking for a production-ready ecommerce & HRMS app?
-
-If you're looking for a production-ready ecommerce & HRMS app, check out [KetraMart](https://ketramart.com/) & [Ketra HRMS](https://hrms.ketramart.com/).
-
-### HIRE ME:- https://www.upwork.com/freelancers/~01210bb2575a8c05a9
-
-## Complete E-commerce website in  Laravel 10
-
-
-#### Setup video : https://www.youtube.com/watch?v=URX5D1A5XQ4&t=19s
-
-#### Demo video :
-https://youtu.be/c5a_wrvJSJo
-
-#### Full tutorial :
-https://www.youtube.com/watch?v=FdAMucaks64&list=PLIFG3IUe1Zxo8Zvju3_kJJvoKSaIP_SC_&index=1&t=44s
 
 ### Features :
 - ##### PWA (progressive web app)
@@ -91,12 +70,6 @@ Many more....
 12. Visit /admin if you want to access the admin panel. Admin Email/Password: ```admin@gmail.com```/```1111```. User Email/Password: ```user@gmail.com```/```1111```
 
 <p style="text-align:center">Thank You so much for your time !!!</p>
-
- ## Author Contact
-  Contact me with any questions!<br>
-
-  Email: Prajwal.iar@gmail.com
-  Whatsapp: +977-9818441226
 
   ## License
   This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.<br />
